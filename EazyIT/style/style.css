@@ -429,6 +429,10 @@ body {
 
 /* instruction-block */
 
+.instruction-block {
+  margin-bottom: 200px;
+}
+
 .title {
   color: #FFFFFF;
   text-align: center;
@@ -483,4 +487,20 @@ body {
   line-height: 30px;
   text-align: center;
   display: block;
+}
+
+/* footer */
+
+.footer {
+  background-color: #2B2B2B;
+}
+
+.support {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: #FFFFFF;
+  text-align: center;
+  display: block;
+  padding: 45px 0 30px 0;
 }
