@@ -366,4 +366,28 @@ body {
   padding: 0 15px;
 }
 
+/* header */
+
+.header-inner {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-img {
+  width: 262px;
+  height: 70px;
+}
+
+.tiktok-img {
+  width: 66px;
+  height: 65px;
+  margin-right: 25px;
+}
+
+.telegram-img {
+  width: 63px;
+  height: 62px;
+}
+
 
