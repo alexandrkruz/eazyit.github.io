@@ -390,4 +390,39 @@ body {
   height: 62px;
 }
 
+/* intro-block */
+
+.intro-inner {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 200px;
+}
+
+.intro-info {
+  width: 55%;
+}
+
+.intro-title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  color: #FFFFFF;
+  text-transform: uppercase;
+}
+
+.intro-txt {
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+  color: #FFFFFF;
+  margin-top: 10px;
+}
+
+.intro-img {
+  width: 45%;
+}
+
+.intro-laptop-img {
+  margin-left: 150px;
+}
 
